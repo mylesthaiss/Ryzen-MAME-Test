@@ -2,8 +2,9 @@
 A simple script that is aimed to reproduce GCC segfaults under Linux by compiling MAME.
 
 # Features
-Looped compiles of MAME.
-Dumps 'free' and 'sensors' outputs onto log file after each successful or failed build.
+- Looped compiles of MAME.
+- Logs dates for start and completed compiles
+- Dumps 'free' and 'sensors' outputs onto log file after each successful or failed build.
 
 # Usage
 Default run with maximum threads in use:
