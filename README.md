@@ -15,6 +15,6 @@ Use only 4 threads:
 > ./RyzenTestMAME.sh 4
 
 # Requirements
--Software dependices such as build-essentials, GCC and SDL2 devlopment headers are required to compile MAME.
--unzip and wget is required for downloading and extracting MAME sources.
--lm_sensors with it87 module is an optional requirement for temperture and voltage logs.
+*Software dependices such as build-essentials, GCC and SDL2 devlopment headers are required to compile MAME.
+*unzip and wget is required for downloading and extracting MAME sources.
+*lm_sensors with it87 module is an optional requirement for temperture and voltage logs.
